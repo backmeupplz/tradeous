@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Bitcoins, Bitcoins everywhere!</string>
+		<key>description</key>
+		<string>Unlocked BTC</string>
+		<key>image</key>
+		<string>btc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Light and fluffy</string>
+		<key>description</key>
+		<string>Unlocked LTC</string>
+		<key>image</key>
+		<string>ltc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Nova Verdicto</string>
+		<key>description</key>
+		<string>Unlocked NVC</string>
+		<key>image</key>
+		<string>nvc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Gold rush</string>
+		<key>description</key>
+		<string>Unlocked USD</string>
+		<key>image</key>
+		<string>usd</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Double-headed eagle</string>
+		<key>description</key>
+		<string>Unlocked RUR</string>
+		<key>image</key>
+		<string>rur</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Stars on the flag</string>
+		<key>description</key>
+		<string>Unlocked EUR</string>
+		<key>image</key>
+		<string>eur</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Private trader</string>
+		<key>description</key>
+		<string>First launch of Tradeous</string>
+		<key>image</key>
+		<string>first-launch</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>A start in life</string>
+		<key>description</key>
+		<string>First mobile trade</string>
+		<key>image</key>
+		<string>first-deal</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Eye of Providence</string>
+		<key>description</key>
+		<string>Traded all currencies in 24 hours</string>
+		<key>image</key>
+		<string>eye</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Nice little things</string>
+		<key>description</key>
+		<string>One trade for less than $5</string>
+		<key>image</key>
+		<string>coins</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Growing up!</string>
+		<key>description</key>
+		<string>One trade for more than $100</string>
+		<key>image</key>
+		<string>reach</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Richy Rich</string>
+		<key>description</key>
+		<string>One trade for more than $1000</string>
+		<key>image</key>
+		<string>bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>My job is to trade</string>
+		<key>description</key>
+		<string>Online for more than 24 hours</string>
+		<key>image</key>
+		<string>time</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Supersecure</string>
+		<key>description</key>
+		<string>Signed in with keys</string>
+		<key>image</key>
+		<string>security</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Seller</string>
+		<key>description</key>
+		<string>Sold 10 times in a row</string>
+		<key>image</key>
+		<string>red_bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Jellybean</string>
+		<key>description</key>
+		<string>Sold 20 times in a row</string>
+		<key>image</key>
+		<string>red_potion</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Act like a Bear</string>
+		<key>description</key>
+		<string>Sold 50 times in a row</string>
+		<key>image</key>
+		<string>red_diamond</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Sell everything you love</string>
+		<key>description</key>
+		<string>Sold 70 times in a row</string>
+		<key>image</key>
+		<string>red_crown</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Buyer</string>
+		<key>description</key>
+		<string>Bought 10 times in a row</string>
+		<key>image</key>
+		<string>green_bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Green light</string>
+		<key>description</key>
+		<string>Bought 20 times in a row</string>
+		<key>image</key>
+		<string>green_potion</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Bully</string>
+		<key>description</key>
+		<string>Bought 50 times in a row</string>
+		<key>image</key>
+		<string>green_diamond</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Serious business</string>
+		<key>description</key>
+		<string>Bought 70 times in a row</string>
+		<key>image</key>
+		<string>green_crown</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Liquidity is guaranteed</string>
+		<key>description</key>
+		<string>Made more than 50 trades</string>
+		<key>image</key>
+		<string>arrows</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Caffeine in blood</string>
+		<key>description</key>
+		<string>Tading at 4am</string>
+		<key>image</key>
+		<string>coffee</string>
+	</dict>
+</array>
+</plist>

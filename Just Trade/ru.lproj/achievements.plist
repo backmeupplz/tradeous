@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Битки, повсюду Битки!</string>
+		<key>description</key>
+		<string>Разблокировал BTC</string>
+		<key>image</key>
+		<string>btc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Легкий и пушистый</string>
+		<key>description</key>
+		<string>Разблокировал LTC</string>
+		<key>image</key>
+		<string>ltc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Новый русский коин</string>
+		<key>description</key>
+		<string>Разблокировал NVC</string>
+		<key>image</key>
+		<string>nvc</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Дом, который построил…</string>
+		<key>description</key>
+		<string>Разблокировал USD</string>
+		<key>image</key>
+		<string>usd</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Двухглавый Орел</string>
+		<key>description</key>
+		<string>Разблокировал RUR</string>
+		<key>image</key>
+		<string>rur</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Звезды на флаге</string>
+		<key>description</key>
+		<string>Разблокировал EUR</string>
+		<key>image</key>
+		<string>eur</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Рядовой трейдер</string>
+		<key>description</key>
+		<string>Первый успешный запуск приложения</string>
+		<key>image</key>
+		<string>first-launch</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Начало карьеры</string>
+		<key>description</key>
+		<string>Первая сделка с мобильного устройства</string>
+		<key>image</key>
+		<string>first-deal</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Всевидящее око</string>
+		<key>description</key>
+		<string>Совершил по одной сделке на каждой паре в течение суток</string>
+		<key>image</key>
+		<string>eye</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Приятные мелочи</string>
+		<key>description</key>
+		<string>Сумма сделки меньше $5</string>
+		<key>image</key>
+		<string>coins</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Растем!</string>
+		<key>description</key>
+		<string>Сумма сделки больше $100</string>
+		<key>image</key>
+		<string>reach</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Толстосум</string>
+		<key>description</key>
+		<string>Сумма сделки больше $1000</string>
+		<key>image</key>
+		<string>bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Моя профессия - Трейдер</string>
+		<key>description</key>
+		<string>Онлайн более 24 часов</string>
+		<key>image</key>
+		<string>time</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Супербезобасность</string>
+		<key>description</key>
+		<string>Залогинился с ключами</string>
+		<key>image</key>
+		<string>security</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Продавец</string>
+		<key>description</key>
+		<string>Продал 10 раз подряд</string>
+		<key>image</key>
+		<string>red_bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Сливовое варенье</string>
+		<key>description</key>
+		<string>Продал 20 раз подряд</string>
+		<key>image</key>
+		<string>red_potion</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Медвежий оскал</string>
+		<key>description</key>
+		<string>Продал 50 раз подряд</string>
+		<key>image</key>
+		<string>red_diamond</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Паникуй @ Сливай</string>
+		<key>description</key>
+		<string>Продал 70 раз подряд</string>
+		<key>image</key>
+		<string>red_crown</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Покупатель</string>
+		<key>description</key>
+		<string>Купил 10 раз подряд</string>
+		<key>image</key>
+		<string>green_bag</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Зеленка</string>
+		<key>description</key>
+		<string>Купил 20 раз подряд</string>
+		<key>image</key>
+		<string>green_potion</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Бычий характер</string>
+		<key>description</key>
+		<string>Купил 50 раз подряд</string>
+		<key>image</key>
+		<string>green_diamond</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Серьезный Дядя</string>
+		<key>description</key>
+		<string>Купил 70 раз подряд</string>
+		<key>image</key>
+		<string>green_crown</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Ликвидность обеспечена</string>
+		<key>description</key>
+		<string>Совершил более 50 сделок купли\продажи</string>
+		<key>image</key>
+		<string>arrows</string>
+	</dict>
+	<dict>
+		<key>unlocked</key>
+		<false/>
+		<key>name</key>
+		<string>Кофеин в крови</string>
+		<key>description</key>
+		<string>Совершил сделку в 4 часа ночи</string>
+		<key>image</key>
+		<string>coffee</string>
+	</dict>
+</array>
+</plist>
